@@ -1,5 +1,6 @@
 #ifndef CPPASSERT_H_8PJEZ5TO
 #define CPPASSERT_H_8PJEZ5TO
+
 #include <assert.h>
 
 #ifndef NDEBUG
