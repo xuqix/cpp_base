@@ -137,7 +137,7 @@ void replaceAllSubStrM(std::string &source,
 }
 
 
-long strToInt(const std::string &source) {
+long long strToInt(const std::string &source) {
   if(!isIntegerNumber(source)) {
     return long(0);
   } else {

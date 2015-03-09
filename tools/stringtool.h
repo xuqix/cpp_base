@@ -120,7 +120,7 @@ void replaceAllSubStrM(std::string &source,
 /// @参数    source  整数字符串
 ///
 /// @返回值  如果字符串是整数，返回转换后的整数，否则返回0
-long strToInt(const std::string &source);
+long long strToInt(const std::string &source);
 
 /// @简介    转换字符串为数字
 ///
